@@ -162,7 +162,7 @@ Trees & Graphs       ░░░░░░░░░░░░   Coming Soon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uniyaladitya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uniyal-aditya)
 [![Google Skills](https://img.shields.io/badge/Google_Skills_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/bd9ecf5a-ac2e-4cff-86d3-dfa7ddcaf0fc)
-[![Google Dev](https://img.shields.io/badge/Google_Dev_Profile-34A853?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/me)
+[![Google Dev](https://img.shields.io/badge/Google_Dev_Profile-34A853?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/AdityaUniyal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityauniyal.dev@email.com)
 
 </div>
