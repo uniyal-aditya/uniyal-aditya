@@ -148,7 +148,6 @@ Trees & Graphs       ░░░░░░░░░░░░   Coming Soon
 - [ ] 🤖 Build an AI-powered project using Gemini API
 - [ ] ☁️ Reach Trooper tier on Google Cloud Arcade (45 pts)
 - [ ] 📜 Earn Azure AI Fundamentals (AI-900) certification
-- [ ] 💼 Land my first tech internship
 - [ ] 🧩 Solve 150+ DSA problems on LeetCode
 - [ ] 🏅 Reach Beta on Microsoft Student Ambassador
 - [ ] 🎓 Join college GDSC chapter as core team member
