@@ -146,7 +146,6 @@ Trees & Graphs       ░░░░░░░░░░░░   Coming Soon
 - [ ] 📜 Earn Azure AI Fundamentals (AI-900) certification
 - [ ] 🧩 Solve 150+ DSA problems on LeetCode
 - [ ] 🏅 Reach Beta on Microsoft Student Ambassador
-- [ ] 🎓 Join college GDSC chapter as core team member
 
 ---
 
