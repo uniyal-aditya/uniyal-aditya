@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Aditya+👋;1st+Year+B.Tech+CSE+%40+Graphic+Era+Hill+University;Full+Stack+%2B+AI%2FML+Explorer+🤖;Google+GEAR+Member+☁️;2+Google+Cloud+Badges+on+Day+1+⚡;Building+cool+stuff+from+Dehradun+🏔️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Aditya+👋Explorer+🤖;Google+GEAR+Member+☁️;2+Google+Cloud+Badges+on+Day+1+⚡;Building+cool+stuff+from+Dehradun+🏔️)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,9 +17,6 @@
 ```yaml
 name        : Aditya Uniyal
 location    : Dehradun, Uttarakhand 🏔️
-university  : Graphic Era Hill University
-degree      : B.Tech Computer Science Engineering
-year        : 1st Year (2025–2029)
 status      : Studying + Building simultaneously 🔥
 
 currently_learning:
