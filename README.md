@@ -33,7 +33,6 @@ interests:
   - Problem Solving & DSA
 
 fun_fact    : "Earned 2 Google Cloud badges on Day 1 of learning! ⚡"
-goal        : "Internship before 2nd year ends 💼"
 ```
 
 ---
