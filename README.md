@@ -144,8 +144,6 @@
 | Google GEAR | 🟢 |
 | Google Cloud Arcade S1 2026 | 🟢 |
 | Microsoft AI Skills Yatra | 🟢 |
-| Microsoft Student Ambassador | 🟡 |
-| Google Developer Student Club | 🟡 |
 
 </div>
 
