@@ -67,7 +67,7 @@
 
 - Building **Enroute**, a route-sharing logistics platform, for SIH 2026 (internal hackathon Aug 23)
 - Working through Google's **GEAR** (Gemini Enterprise Agent Ready) program
-- Sharpening **DSA fundamentals** — arrays, strings, sorting
+- Learning **C** as part of coursework
 
 </details>
 
@@ -132,19 +132,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=FCC624)
 
 </details>
-
-<br/>
-
-## 📈 DSA Progress
-
-```
-Loops & Functions    ████████████   ✅ Solid
-Basic Math & Logic   ██████████░░   Strong
-Arrays & Strings     ████████░░░░   Learning
-Sorting Algorithms   █████░░░░░░░   In Progress
-Recursion            ███░░░░░░░░░   Next Up
-Trees & Graphs       ░░░░░░░░░░░░   Coming Soon
-```
 
 <br/>
 
