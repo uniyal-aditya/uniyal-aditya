@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary><b>✅ Earlier in 2026 — Getting Started</b></summary>
+<summary><b>🪻 Earlier in 2026 — Getting Started</b></summary>
 <br/>
 
 - Started B.Tech CSE at **Doon University**
@@ -124,11 +124,11 @@
 <summary><b>Languages</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-111114?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111114?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-111114?style=flat-square&logo=c&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-111114?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111114?style=flat-square&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-111114?style=flat-square&logo=python&logoColor=8b5cf6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111114?style=flat-square&logo=javascript&logoColor=c084fc)
+![C](https://img.shields.io/badge/C-111114?style=flat-square&logo=c&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-111114?style=flat-square&logo=html5&logoColor=f472b6)
+![CSS3](https://img.shields.io/badge/CSS3-111114?style=flat-square&logo=css3&logoColor=e879f9)
 
 </details>
 
@@ -136,10 +136,10 @@
 <summary><b>Cloud & AI</b></summary>
 <br/>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111114?style=flat-square&logo=google-cloud&logoColor=4285F4)
-![Azure](https://img.shields.io/badge/Azure-111114?style=flat-square&logo=microsoft-azure&logoColor=0089D6)
-![Gemini](https://img.shields.io/badge/Gemini-111114?style=flat-square&logo=google-gemini&logoColor=8E75B2)
-![Firebase](https://img.shields.io/badge/Firebase-111114?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111114?style=flat-square&logo=google-cloud&logoColor=a78bfa)
+![Azure](https://img.shields.io/badge/Azure-111114?style=flat-square&logo=microsoft-azure&logoColor=8b5cf6)
+![Gemini](https://img.shields.io/badge/Gemini-111114?style=flat-square&logo=google-gemini&logoColor=c084fc)
+![Firebase](https://img.shields.io/badge/Firebase-111114?style=flat-square&logo=firebase&logoColor=fbbf24)
 
 </details>
 
@@ -147,12 +147,12 @@
 <summary><b>Tools & Platforms</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/Git-111114?style=flat-square&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git-111114?style=flat-square&logo=git&logoColor=f472b6)
 ![GitHub](https://img.shields.io/badge/GitHub-111114?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-111114?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-111114?style=flat-square&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-111114?style=flat-square&logo=linux&logoColor=FCC624)
-![Kaggle](https://img.shields.io/badge/Kaggle-111114?style=flat-square&logo=kaggle&logoColor=20BEFF)
+![VS Code](https://img.shields.io/badge/VS_Code-111114?style=flat-square&logo=visual-studio-code&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-111114?style=flat-square&logo=postman&logoColor=f472b6)
+![Linux](https://img.shields.io/badge/Linux-111114?style=flat-square&logo=linux&logoColor=c084fc)
+![Kaggle](https://img.shields.io/badge/Kaggle-111114?style=flat-square&logo=kaggle&logoColor=e879f9)
 
 </details>
 
@@ -164,9 +164,9 @@
 
 | Program | Status |
 |---|:---:|
-| Google GEAR | 🟢 |
-| Google Cloud Arcade S1 2026 | 🟢 |
-| Microsoft AI Skills Yatra | 🟢 |
+| Google GEAR | 🟣 |
+| Google Cloud Arcade S1 2026 | 🟣 |
+| Microsoft AI Skills Yatra | 🟣 |
 
 </div>
 
@@ -191,7 +191,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/uniyaladitya/">
-<img src="https://img.shields.io/badge/LinkedIn-111114?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+<img src="https://img.shields.io/badge/LinkedIn-111114?style=for-the-badge&logo=linkedin&logoColor=f472b6"/>
 </a>
 
 <a href="https://github.com/uniyal-aditya">
@@ -199,11 +199,11 @@
 </a>
 
 <a href="https://www.skills.google/public_profiles/bd9ecf5a-ac2e-4cff-86d3-dfa7ddcaf0fc">
-<img src="https://img.shields.io/badge/Google_Skills-111114?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Google_Skills-111114?style=for-the-badge&logo=google-cloud&logoColor=a78bfa"/>
 </a>
 
 <a href="https://g.dev/AdityaUniyal">
-<img src="https://img.shields.io/badge/Google_Dev-111114?style=for-the-badge&logo=google&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/Google_Dev-111114?style=for-the-badge&logo=google&logoColor=c084fc"/>
 </a>
 
 <br/><br/>
