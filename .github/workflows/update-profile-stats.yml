@@ -1,12 +1,20 @@
 name: Update profile stats
 
 on:
+  push:
+    paths:
+      - "scripts/generate_stats.py"
+      - ".github/workflows/update-profile-stats.yml"
   workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
 
 jobs:
   update:
