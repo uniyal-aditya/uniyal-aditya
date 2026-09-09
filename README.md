@@ -227,22 +227,28 @@
 
 <br/>
 
-## 📊 Live Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uniyal-aditya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8&icon_color=0e7490" width="49%"/>
+<img
+  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=uniyal-aditya&show_icons=true"
+  width="48%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniyal-aditya&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=94a3b8" width="49%"/>
+<img
+  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=uniyal-aditya"
+  width="48%"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=uniyal-aditya&theme=dark&hide_border=true&background=0f172a&ring=0e7490&fire=0e7490&currStreakLabel=0e7490" width="70%"/>
+<img
+  src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=uniyal-aditya"
+  width="70%"
+/>
 
 </div>
-
-<br/>
-
 ## 🤝 Reach Me
 
 <div align="center">
