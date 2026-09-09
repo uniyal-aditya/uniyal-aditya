@@ -27,7 +27,7 @@
 
 <strong>🔥 Streak</strong>
 <br/>
-<sub>live counter below</sub>
+<sub>live stats below</sub>
 
 </td>
 
@@ -70,68 +70,13 @@
 
 <div align="center">
 
-<table>
-<tr>
+<img src="stats/summary.svg" width="100%" alt="GitHub Impact — live repository stars, repositories, followers and contribution stats"/>
 
-<td align="center" width="33%">
-
-<a href="https://github.com/uniyal-aditya">
-<img src="https://img.shields.io/github/stars/uniyal-aditya?style=for-the-badge&logo=github&logoColor=ffffff&label=TOTAL%20STARS&labelColor=0f172a"/>
-</a>
-
-<br/>
-<sub>stars across owned repositories</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/uniyal-aditya">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Funiyal-aditya&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<br/>
-<sub>public repositories</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/uniyal-aditya">
-<img src="https://img.shields.io/github/followers/uniyal-aditya?style=for-the-badge&logo=github&logoColor=ffffff&label=FOLLOWERS&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<br/>
-<sub>GitHub followers</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 ### 🏆 Top Repositories
 
-<a href="https://github.com/uniyal-aditya/Numexa-website">
-<img src="https://img.shields.io/github/stars/uniyal-aditya/Numexa-website?style=for-the-badge&logo=github&logoColor=ffffff&label=NUMEXA-WEBSITE&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<a href="https://github.com/uniyal-aditya/numexa_legacy">
-<img src="https://img.shields.io/github/stars/uniyal-aditya/numexa_legacy?style=for-the-badge&logo=github&logoColor=ffffff&label=NUMEXA-LEGACY&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<a href="https://github.com/uniyal-aditya/adityauniyal-portfolio">
-<img src="https://img.shields.io/github/stars/uniyal-aditya/adityauniyal-portfolio?style=for-the-badge&logo=github&logoColor=ffffff&label=ADITYAUNIYAL-PORTFOLIO&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<a href="https://github.com/uniyal-aditya/Admitflow">
-<img src="https://img.shields.io/github/stars/uniyal-aditya/Admitflow?style=for-the-badge&logo=github&logoColor=ffffff&label=ADMITFLOW&labelColor=0f172a&color=0e7490"/>
-</a>
-
-<a href="https://github.com/uniyal-aditya/numexa">
-<img src="https://img.shields.io/github/stars/uniyal-aditya/numexa?style=for-the-badge&logo=github&logoColor=ffffff&label=NUMEXA&labelColor=0f172a&color=0e7490"/>
-</a>
+<img src="stats/top-repos.svg" width="100%" alt="Top personal repositories with live star counts"/>
 
 </div>
 
@@ -231,24 +176,16 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=uniyal-aditya&show_icons=true"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=uniyal-aditya"
-  width="48%"
-/>
+<img src="stats/languages.svg" width="100%" alt="Top programming languages across public repositories"/>
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=uniyal-aditya"
-  width="70%"
-/>
+<img src="stats/streak.svg" width="100%" alt="GitHub contribution streak and contribution totals"/>
 
 </div>
+
+<br/>
+
 ## 🤝 Reach Me
 
 <div align="center">
