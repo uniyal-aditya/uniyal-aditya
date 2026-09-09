@@ -58,7 +58,77 @@
 </div>
 
 <br/>
+<br/>
 
+## ⭐ GitHub Impact
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/uniyal-aditya">
+<img src="https://img.shields.io/github/stars/uniyal-aditya?style=for-the-badge&logo=github&label=Total%20Stars&labelColor=0f172a"/>
+</a>
+
+<br/>
+<sub>Across personal repositories</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/uniyal-aditya">
+<img src="https://img.shields.io/github/repos/uniyal-aditya?style=for-the-badge&logo=github&label=Repositories&labelColor=0f172a"/>
+</a>
+
+<br/>
+<sub>Public repositories</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/uniyal-aditya">
+<img src="https://img.shields.io/github/followers/uniyal-aditya?style=for-the-badge&logo=github&label=Followers&labelColor=0f172a"/>
+</a>
+
+<br/>
+<sub>GitHub followers</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🏆 Top Repositories
+
+<a href="https://github.com/uniyal-aditya/Numexa-website">
+<img src="https://img.shields.io/github/stars/uniyal-aditya/Numexa-website?style=for-the-badge&logo=github&label=Numexa-website&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/uniyal-aditya/numexa_legacy">
+<img src="https://img.shields.io/github/stars/uniyal-aditya/numexa_legacy?style=for-the-badge&logo=github&label=numexa_legacy&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/uniyal-aditya/oldportfolio">
+<img src="https://img.shields.io/github/stars/uniyal-aditya/oldportfolio?style=for-the-badge&logo=github&label=oldportfolio&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/uniyal-aditya/Admitflow">
+<img src="https://img.shields.io/github/stars/uniyal-aditya/Admitflow?style=for-the-badge&logo=github&label=Admitflow&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/uniyal-aditya/numexa">
+<img src="https://img.shields.io/github/stars/uniyal-aditya/numexa?style=for-the-badge&logo=github&label=numexa&labelColor=0f172a"/>
+</a>
+</div>
+
+<br/>
 ## 🧭 The Path So Far
 
 <details open>
