@@ -79,6 +79,10 @@ def main():
 
     gql = '''query($login:String!) { user(login:$login) { contributionsCollection { totalContributions contributionCalendar { weeks { contributionDays { date contributionCount } } } } } }'''
     graph = get_json("https://api.github.com/graphql", method="POST", body={"query": gql, "variables": {"login": OWNER}})
+    if graph.get("errors"):
+        print("::warning::GraphQL contributionsCollection query returned errors:", graph["errors"])
+    if not TOKEN:
+        print("::warning::No token found in STATS_PAT/GITHUB_TOKEN env var — contributions will be 0.")
     cc = (((graph.get("data") or {}).get("user") or {}).get("contributionsCollection") or {})
     days = [d for w in ((cc.get("contributionCalendar") or {}).get("weeks") or []) for d in w.get("contributionDays", [])]
     contrib_total = cc.get("totalContributions", 0)
